@@ -66,7 +66,7 @@ src/
 ## 🛠️ Tech Stack
 
 - [React](https://react.dev/)
-- [Vite](https://vitejs.dev/) or [Create React App](https://create-react-app.dev/)
+- [Vite](https://vitejs.dev/)
 - JavaScript (ES6+)
 - Git + GitHub for version control
 
@@ -93,9 +93,10 @@ Let’s grow together. 💪
 
 ---
 
-## 📸 Screenshot (Optional)
+## 📸 Screenshot 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/2f7d32af-5e0c-499a-8a42-7427617ac3e7)
+
 
 ```
 
