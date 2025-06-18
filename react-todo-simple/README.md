@@ -1,12 +1,57 @@
-# React + Vite
+# React Todo Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React-based Todo application built as part of a learning project to practice component structure, props usage, and `useState` for local state management.
 
-Currently, two official plugins are available:
+## 📁 Project Structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+├── assets/                 # Assets (images, icons etc.)
+├── components/             # All reusable React components
+│   ├── AddTodoBtn.jsx      # Button to add todos
+│   ├── Todo.jsx            # Main Todo component managing the state
+│   ├── TodoHeader.jsx      # Header for the Todo section
+│   ├── TodoItem.jsx        # Individual todo item component
+│   └── index.js            # Component exports
+├── App.jsx                 # Root application component
+├── index.css               # Application-wide styling
+└── main.jsx                # Entry point for React rendering
+```
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add new todos
+- List todos dynamically
+- Manage todo list using React state (`useState`)
+- Component-based structure with props passing
+
+## 🛠️ Built With
+
+- React (Vite)
+- JavaScript (ES6+)
+- Tailwind CSS (optional based on your actual project)
+
+## 📦 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/zayndotdev/react-todo-simple.git
+   ```
+
+2. **Navigate to the project folder**
+   ```bash
+   cd todo-react-app
+   ```
+
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
