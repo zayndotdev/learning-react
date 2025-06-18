@@ -33,16 +33,19 @@ This is a simple React-based Todo application built as part of a learning projec
 ## 📦 Getting Started
 
 1. **Clone the repository**
+
    ```bash
-   git clone https://github.com/zayndotdev/react-todo-simple.git
+   git clone https://github.com/your-username/todo-react-app.git
    ```
 
 2. **Navigate to the project folder**
+
    ```bash
    cd todo-react-app
    ```
 
 3. **Install dependencies**
+
    ```bash
    npm install
    ```
