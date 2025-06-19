@@ -13,8 +13,21 @@ This project includes:
 - ✅ Functional components
 - ✅ Props and dynamic rendering
 - ✅ useState (coming soon!)
+- ✅ React Hooks (coming soon!)
+- ✅ React Router (coming soon!)
+- ✅ API calls and data fetching (coming soon!)
 - ✅ Reusable UI components
 - ✅ Clean and readable code
+- ✅ Step-by-step explanations and notes
+- ✅ Code refactoring and optimization
+- ✅ Error handling and debugging
+- ✅ Best practices and coding standards
+- ✅ Real-world examples and case studies
+- ✅ Project setup and configuration
+- ✅ Testing and debugging tools
+- ✅ Code organization and structure
+- ✅ Version control and collaboration
+- ✅ And more!
 
 ---
 
